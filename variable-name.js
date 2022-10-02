@@ -19,5 +19,9 @@ var user home address = " andor killa bandor ban";
 
 var user_home_address = "andor killa bandor ban"; // snake case
 
-var userHomeAddress = "andor killa bandor ban"; // camel case
+var userHomeAddress = "andor killa bandor ban"; // camel case - we will use this case
 var UserHomeAddress = "andor killa bandor ban"; // pascal case
+
+// 6. variable name is case sensitive
+var person = 29;
+var Person = 29;
