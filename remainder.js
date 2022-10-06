@@ -1,5 +1,5 @@
 var mangos = 11;
-var person = 3;
+var person = 2;
 
 //  (/) this means vagfol
 //  (%) this means vagses
